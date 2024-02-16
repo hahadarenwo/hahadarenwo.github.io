@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>分类测试</title>
+    <url>/2024/02/16/hello%20world/</url>
+    <content><![CDATA[<p>…<br>测试<br>…</p>
+<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>测试 <strong>~~hello</strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;hello world&quot;</span> &lt;&lt; endl;</span><br></pre></td></tr></table></figure>
+
+<h2 id="副标题"><a href="#副标题" class="headerlink" title="副标题"></a>副标题</h2><ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+]]></content>
+      <categories>
+        <category>分类测试</category>
+      </categories>
+      <tags>
+        <tag>标签测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Games101 第1节</title>
+    <url>/2024/02/16/%E3%80%90Games101%E3%80%91%E7%AC%AC1%E8%8A%82/</url>
+    <content><![CDATA[<p>…<br>测试<br>…</p>
+<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>测试 <strong>~~hello</strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;hello world&quot;</span> &lt;&lt; endl;</span><br></pre></td></tr></table></figure>
+
+<h2 id="副标题"><a href="#副标题" class="headerlink" title="副标题"></a>副标题</h2><ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games101</category>
+      </categories>
+      <tags>
+        <tag>图形学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Games101 第2节</title>
+    <url>/2024/02/16/%E3%80%90Games101%E3%80%91%E7%AC%AC2%E8%8A%82/</url>
+    <content><![CDATA[<p>…<br>测试<br>…</p>
+<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>测试 <strong>~~hello</strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;hello world&quot;</span> &lt;&lt; endl;</span><br></pre></td></tr></table></figure>
+
+<h2 id="副标题"><a href="#副标题" class="headerlink" title="副标题"></a>副标题</h2><ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games101</category>
+      </categories>
+      <tags>
+        <tag>图形学</tag>
+      </tags>
+  </entry>
+</search>
